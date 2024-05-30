@@ -3,7 +3,7 @@
 ## About
 
 The event news project is a project feature that was intended to make it easier to manage, produce, and register events in a matter of minutes.
-The disadvantage of not using this project is that individuals will go to a certain location and register by hand. They may have taken their time to arrive and spent money on transportation. etc.. 
+individuals will go to a certain location and register by hand. They may have taken their time to arrive and spent money on transportation. etc.. 
 ## Project Structure
 - Create and Update List News, Event on admin panel including some feature in web client 
 - Admin could manage whole system
